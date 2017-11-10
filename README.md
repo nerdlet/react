@@ -1,8 +1,9 @@
 ARA-REACTADMINJS TEMPLATE
 INSTRUCTIONS
 
-Author: @author Ashwin Hariharan
-Modified by: brenda nyokabi
+#### Author: @author Ashwin Hariharan
+
+#### Modified by: brenda nyokabi
 
 #### Step 1 : 
 
