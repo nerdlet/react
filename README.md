@@ -3,7 +3,7 @@ INSTRUCTIONS
 
 #### Author: @author Ashwin Hariharan
 
-#### Modified by: brenda nyokabi
+#### Modified by: Brenda Nyokabi
 
 #### Step 1 : 
 
